@@ -1,6 +1,6 @@
 # EarthESND-Model
 
-## 🧩 EarthESND Network
+## 🧩 EarthESND Model
 
 **EarthESND** is a multi-scale, multi-layer Echo State Network (ESN) designed for early earthquake magnitude prediction.  
 The main pipeline is implemented in the `EarthESND.ipynb` notebook, which uses a modular architecture.  
